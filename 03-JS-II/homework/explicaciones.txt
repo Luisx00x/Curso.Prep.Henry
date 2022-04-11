@@ -1,0 +1,12 @@
+
+- for: es un statement que permite repetir un bloque de código "n" veces de acuerdo con los parámetros establecidos
+en su argumento.
+
+- &&: es un operador lógico con el cual se pueden evaluar 2 expresiones y para que la evaluación retorne true, 
+ambas expresiones deben ser true. Si al menos UNA expresión que están siendo evaluada es false, se retorna false.
+
+- ||: es un operador lógico con el cual se pueden evaluar 2 expresiones y basta con que al menos UNA de las 
+expresiones sea true para retornar true. En caso de ser false ambas expresiones, retorna false.
+
+- ! : es un operador lógico que "niega" la expresion, causando el resultado que se retorne el valor opuesto a la
+expresión evaluada.
