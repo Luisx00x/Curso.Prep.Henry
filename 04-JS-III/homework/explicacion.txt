@@ -1,0 +1,8 @@
+- Array: Los arreglos son coleccione de tipos de datos que se almacenan en una variable. Para llamar a algun elemento
+del arreglo se usa el nombre del array seguido del indice del elemento que se desea obtener y es posible almacenar
+arreglos dentro de los arreglos (matrices).
+
+Tambien existen diversos metodos aplicados directamente a los arrays que facilitan la manipulacion y la navegacion
+dentro de estos, como por ejemeplo el metodo .push() y .pop() que sirven para agregar y eliminar elementos al final del
+array, asi como tambien esta el metodo .join(), "une" los elementos dentro del arreglo y puede recibir como
+parametro un string que se colocará como division de cada elemento. 
