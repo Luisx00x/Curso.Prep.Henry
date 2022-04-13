@@ -1,0 +1,18 @@
+- Objetos: son una colección de tipos de datos más complejas que los arrays, debido a que los objetos son capaces de
+contener estructuras más complejas como metodos y los elementos son almacenados en forma de propiedades que pueden ser 
+referentes a dicho objeto.
+
+- Propiedades: Es la forma en que se llama un elemento que forma parte de un objeto. Estos pueden tomar valores
+de tipos de datos primitivos, arrays, funciones denominadas métodos, e incluso pueden contener otros objetos.
+
+- Método: Es una función que esta definida o invocada dentro de un objeto para realizar alguna acción.
+
+- Bucle for...in: Es un bucle similar al bucle "for" que permite recorrer las propiedades de un arreglo, facilitando
+operar con sus valores. Esta conformado por la palabra reservada for y dentro de los parentesis van:
+
+    + un nombre de variable que tomará el valor del atributo de la iteracion en curso
+    + la palabra reservada in
+    + el objeto que se desea recorrer.
+
+ Este ciclo también se puede usar en arreglos, solo que en lugar de interar entre las propiedades, la variable que
+ se nombra en el bucle tomará el valor de la posición del arreglo.
