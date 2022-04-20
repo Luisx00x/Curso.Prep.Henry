@@ -1,0 +1,5 @@
+- prototype: Es la propiedad primitiva de las clases, de ella derivan todas los métodos que pueden ser heredados
+por una clase en particular.
+
+- Constructors: son metodos que se emplean para la construcción de las clases, ya que estos se encargan de recibir
+los parametros que definiran las propiedades de dicha clase.
