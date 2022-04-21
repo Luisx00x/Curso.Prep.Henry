@@ -1,0 +1,3 @@
+- Funciones callback: son funciones que son llamadas como parametro dentro de otra funcion para realizar determinada
+accion  con relación al parametro que se desea obtener. Algunos metodos de arrays por ejemplo utilizan funciones
+callback para iterar con cada elemento dentro del array con relacion a la función entregada.
