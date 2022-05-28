@@ -77,8 +77,27 @@ function arrayContiene(array, elemento) {
   }
   return false; */
 
+  /*
+  // Prueba2
+  let contador = 0;
+  
+  array.forEach((ele) =>{
+    if(ele === elemento){
+      contador++;
+    }});
+
+  if(contador > 0){
+    return true;
+  }else {
+    return false;
+  }
+
+  */
+
   return array.includes(elemento);
 }
+
+//}
 
 
 function agregarNumeros(numeros) {
